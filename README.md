@@ -1,2 +1,2 @@
 # ImageEnhance
-Scale up Image Resolution by applying Deep Learning
+Improve Image Resolution by applying Deep Learning
